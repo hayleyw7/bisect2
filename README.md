@@ -15,3 +15,8 @@ The lab directions can be found [here](https://github.com/skilldocs/git-ts/blob/
 ### Lab 5 - Garbage collection, verification, and cleanup for your repositories
 
 >Purpose: In this lab, we’ll get some practice cleaning up objects in your repositories
+
+### Other Labs
+
+* [Lab 3 repository](https://github.com/hayleyw7/calc2)
+* [Lab 4 repository](https://github.com/hayleyw7/roarv2)
